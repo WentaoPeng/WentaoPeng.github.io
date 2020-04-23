@@ -1,2 +1,0 @@
-# Wint.github.io
-Blog
